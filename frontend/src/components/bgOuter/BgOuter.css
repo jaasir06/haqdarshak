@@ -1,0 +1,23 @@
+.bg-outer{
+    background: #4F285E;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+.bg-outer h1{
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 1.75;
+}
+
+.bg-outer button{
+    width: 56px;
+    height: 40px;
+    border-radius: 64px;
+    background: #FFFFFF;
+    margin-top: 30px;
+    margin-left: 20px;
+    cursor: pointer;
+}

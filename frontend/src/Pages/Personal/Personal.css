@@ -1,0 +1,40 @@
+.details{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.gen-field{
+    display: flex;
+    gap: 20px;
+}
+
+.dob{
+    display: flex;
+    gap: 20px;
+}
+
+.dob input{
+    border-color: grey;
+}
+
+.dob-date{
+    width: 170px;
+    height: 60px;
+    outline: none;
+    border-radius: 16px;
+    padding: 0px 15px;
+}
+
+.dob-age{
+    width: 50px;
+    height: 60px;
+    outline: none;
+    border-radius: 16px;
+    padding: 0px 15px;
+}
+
+.details p{
+    font-size: 15px;
+    color: #50464B;
+}

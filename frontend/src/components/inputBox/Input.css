@@ -1,0 +1,18 @@
+.input-box{
+    width: 296px;
+    height: 72px;
+    border-radius: 24px;
+    border: 1px;
+    background: #E5E2DE;
+}
+
+.input-box input{
+    width: 276px;
+    height: 32px;
+    border-radius: 24px;
+    border: 1px solid #50464B;
+    background: #E5E2DE;
+    color: #50464B;
+    padding: 18px 16px;
+    font-size: 18px;
+}

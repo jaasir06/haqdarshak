@@ -1,0 +1,14 @@
+.mobile-input{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-right: 10px;
+}
+
+.mobile-input p{
+    color: #50464B;
+    font-size: 16px;
+    padding-left: 20px;
+}

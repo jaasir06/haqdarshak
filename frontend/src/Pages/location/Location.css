@@ -1,0 +1,26 @@
+.map-fields{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.map-hr{
+    display: flex;
+    gap: 15px;
+    margin-left: 20px;
+}
+
+.map-hr div{
+    margin-top: 33px;
+    background: gray;
+    height: 1px;
+    width: 100px;
+}
+
+.map-fields button{
+    height: 60px;
+    background: #ffffff;
+    border: 1px solid white;
+    border-radius: 32px;
+    font-size: 18px;
+}
